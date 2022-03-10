@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Pankaj Kumar**, currently pursuing my bachelors from ADGITM GGSIPU,Delhi in *Computer and Science Engineering*. <br>
+✔️ I am **Pankaj Kumar**, currently pursuing my bachelors from ADGITM Affiliate to GGSIPU, Delhi in *Computer and Science Engineering*. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
@@ -18,9 +18,6 @@
 
 <br>
 
-
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
 
 <!-- SOCAIL MEDIA HANDLES -->
@@ -42,7 +39,7 @@
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/Pankaj4398/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
