@@ -29,13 +29,7 @@
 
 <!-- STATISTICS ABOUT PROFILE -->
 
- 📶 Stats:<br><br>
- 
- 
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj4398&hide=jupyter,html,python)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
+
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
