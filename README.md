@@ -25,6 +25,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-pk2018student@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pk2018student@gmail.com)](mailto:pk2018student@gmail.com)
 
+[![Badge](https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png)]
+(https://leetcode.com/PankajKr/)
+
 ---
 
 <!-- STATISTICS ABOUT PROFILE -->
