@@ -11,7 +11,7 @@
 
 ✔️ I am **Pankaj Kumar**, currently pursuing my bachelors from ADGITM Affiliate to GGSIPU, Delhi in *Computer and Science Engineering*. <br>
 
-✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
+✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy DSA. <br>
 
 ✔️ I am learning backend web development in springboot.<br>
 
