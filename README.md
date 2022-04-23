@@ -13,7 +13,7 @@
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
-✔️ I have experience in backend web development .<br>
+✔️ I am learning backend web development in springboot.<br>
 
 
 <br>
