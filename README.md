@@ -38,8 +38,11 @@
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/Pankaj4398/count.svg?align=center)
 
+<!-- PINNED REPOS -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&theme=dark&show_icons=true)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&theme=dark&show_icons=true)](https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git)
+
+
 <!-- GITHUB STATISTICS -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical)  
  
