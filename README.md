@@ -56,7 +56,7 @@
 <hr>
 
 <!-- GITHUB STATISTICS -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical&hide=stars&count_private=true)
  
  
  <hr>
