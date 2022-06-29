@@ -43,8 +43,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=QMoney&style=flat-square&theme=dark&show_icons=true)](https://github.com/Pankaj4398/QMoney.git)
 <hr>
+
 <!-- GITHUB STATISTICS -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical)
  
  
  <hr>
