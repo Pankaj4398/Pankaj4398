@@ -39,7 +39,7 @@
 ![visitors](https://profile-counter.glitch.me/Pankaj4398/count.svg?align=center)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=github-readme-stats)](https://github.com/Pankaj4398/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GITHUB STATISTICS -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical)  
