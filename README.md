@@ -4,7 +4,7 @@
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <!-- h2 align=center>🙋 Good to have you here!!</h2 -->
-<img src="https://github.com/Pankaj4398/Pankaj4398/blob/11f6a59a38ee36e47c1861b0a09c0e312858a118/Resources/pikachu-pokemon.gif" width="75" height="75"/><img src="https://github.com/Pankaj4398/Pankaj4398/blob/a9074d9deea65cbc86247e7aeb45674c30c12487/Resources/me-text-pencil-45698025.jpg" width="400" height="200"/>
+<img src="https://github.com/Pankaj4398/Pankaj4398/blob/11f6a59a38ee36e47c1861b0a09c0e312858a118/Resources/pikachu-pokemon.gif" width="75" height="75"/><img src="https://github.com/Pankaj4398/Pankaj4398/blob/a9074d9deea65cbc86247e7aeb45674c30c12487/Resources/me-text-pencil-45698025.jpg" width="200" height="400"/>
 
 <!--ABOUT ME CODE-->
 🌱 **About myself**
