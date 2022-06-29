@@ -47,10 +47,10 @@
 
 
 <a href="https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/Pankaj4398/QMoney.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=QMoney"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=QMoney&theme=dark&show_icons=true"/>
 </a>
 <hr>
 
