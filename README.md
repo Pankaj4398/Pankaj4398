@@ -3,7 +3,7 @@
 
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center><img src="Resources/pikachu-pokemon (1).gif" width="75" height="75"/> Good to have you here!!</h2>
+<h2 align=center><img src="https://github.com/Pankaj4398/Pankaj4398/blob/bd3d6a2eb5a3b4c29ab2c0a5175ae2d52044d693/Resources/pokemon-pikachu.giff" width="75" height="75"/> Good to have you here!!</h2>
 
 
 <!--ABOUT ME CODE-->
