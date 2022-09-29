@@ -149,75 +149,7 @@
 			</tbody>
 		</table>
 	</center>
- 
-<!--  - **AI/ML**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Tensorflow</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>OpenCV</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
-					</td>
-     <td width="25%" align="center">
-						<span><strong>PyTorch</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-					</td>
-      <td width="25%" align="center">
-						<span><strong>NumPy</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center> -->
-<!--  
-  - **Designing Softwares:**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Figma</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Canva</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
-					</td>
-					</tr>
-			</tbody>
-		</table>
-	</center> -->
-
-<!-- - **Cloud Platforms**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>IBM</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>AWS</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
-					</td>
-     
-     <td width="25%" align="center">
-						<span><strong>Azure</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
- 
-  -->
+	
  - **Others**
 	<center>
 		<table>
@@ -227,21 +159,19 @@
 						<span><strong>Git</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 					</td>
-     <td width="25%" align="center">
+     					<td width="25%" align="center">
 						<span><strong>Github</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
 					</td>
-
-    
-     <td width="25%" align="center">
+     					<td width="25%" align="center">
 						<span><strong>Flask</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 					</td>
-					
 				</tr>
 			</tbody>
 		</table>
 	</center>
+	
 <!--
 <a href="https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&theme=dark&show_icons=true" />
