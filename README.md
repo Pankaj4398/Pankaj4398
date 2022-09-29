@@ -133,14 +133,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=QMoney&theme=dark&show_icons=true"/>
 </a>
 -->
-<hr>
+---
 
 <!-- GITHUB STATISTICS -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical&hide=stars&count_private=true)
  
- <hr>
- 
- 
+<!--LANGUAGE CARD-->
  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj4398&theme=radical)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
