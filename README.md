@@ -46,7 +46,7 @@
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>Angular</strong></span><br/>
-						<img height="64px" width="64px" src="[https://cdn.svgporn.com/logos/python.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png)">
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Java</strong></span><br/>
