@@ -45,8 +45,8 @@
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>Angular</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+						<span><strong>C#</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Java</strong></span><br/>
@@ -82,8 +82,8 @@
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 					</td>
 					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+						<span><strong>Angular</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 					</td>
 					<td  align="center">
 						<span><strong>Wix</strong></span><br/>
@@ -94,13 +94,6 @@
 		</table>
 	</center>
 	
-
-<!-- PINNED REPOS -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&style=flat-square&theme=dark&show_icons=true&card_width=100)](https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=QMoney&style=flat-square&theme=dark&show_icons=true&card_width=100)](https://github.com/Pankaj4398/QMoney.git)
-
 
 <!--
 <a href="https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git">
@@ -122,4 +115,11 @@
          
 
 ---
+
+
+<!-- PINNED REPOS -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&style=flat-square&theme=dark&show_icons=true&card_width=100)](https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=QMoney&style=flat-square&theme=dark&show_icons=true&card_width=100)](https://github.com/Pankaj4398/QMoney.git)
  
