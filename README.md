@@ -74,10 +74,6 @@
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 					<td align="center">
-						<span><strong>C#</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png">
-					</td>
-					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 					</td>
@@ -85,15 +81,29 @@
 						<span><strong>Angular</strong></span><br/>
 						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 					</td>
-					<td  align="center">
-						<span><strong>Wix</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
+				</tr>
+			</tbody>
+		</table>
+	</center>
+
+
+- **Backend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>Spring Boot</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.javacodegeeks.com/wp-content/uploads/2018/07/SpringBoot.png">
+					</td>
+					<td align="center">
+						<span><strong>.Net MVC</strong></span><br/>
+						<img height="64px" width="64px" src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png">
 					</td>
 				</tr>
 			</tbody>
 		</table>
 	</center>
-	
 
 <!--
 <a href="https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git">
