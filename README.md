@@ -75,7 +75,7 @@
 					</td>
 					<td align="center">
 						<span><strong>C#</strong></span><br/>
-						<img height="64px" width="64px" src="[https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png)">
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png">
 					</td>
 					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
