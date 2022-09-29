@@ -127,7 +127,7 @@
 		</table>
 	</center>
 	
-- **web Hosting Platforms**
+- **Web Hosting Platforms**
 	<center>
 		<table>
 			<tbody>
