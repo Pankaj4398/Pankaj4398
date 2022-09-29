@@ -140,7 +140,6 @@
 						<span><strong>Netlify</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
 					</td>
-     
      					<td width="25%" align="center">
 						<span><strong>Github pages</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
