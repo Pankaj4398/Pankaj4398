@@ -5,6 +5,8 @@
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center><img src="Resources/pokemon-pikachu.gif" width="100" height="120"/> Good to have you here!!</h2>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pankaj4398&label=Profile%20views&color=green&style=flat" alt="Pankaj4398" /> </p>
+
 
 <!--ABOUT ME CODE-->
 🌱 **About myself**
@@ -33,8 +35,8 @@
 <!-- STATISTICS ABOUT PROFILE -->
  
 <!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/Pankaj4398/count.svg?align=center)
+<!-- 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/Pankaj4398/count.svg?align=center) -->
 
 ---
 <!-- GitHub Skills start -->
