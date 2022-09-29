@@ -36,7 +36,7 @@
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/Pankaj4398/count.svg?align=center)
 
-
+---
 <!-- GitHub Skills start -->
 ## 🎓Tools and Technologies:
 - **Programming Languages**
@@ -45,8 +45,8 @@
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+						<span><strong>Angular</strong></span><br/>
+						<img height="64px" width="64px" src="[https://cdn.svgporn.com/logos/python.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png)">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Java</strong></span><br/>
@@ -74,8 +74,8 @@
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 					<td align="center">
-						<span><strong>Wordpress</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+						<span><strong>C#</strong></span><br/>
+						<img height="64px" width="64px" src="[https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png)">
 					</td>
 					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
