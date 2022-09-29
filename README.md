@@ -108,7 +108,23 @@
 			</tbody>
 		</table>
 	</center>
-
+- **Databases**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>MySql</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MongoDB</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.svgrepo.com/show/303232/mongodb-logo.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 <!--
 <a href="https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&theme=dark&show_icons=true" />
