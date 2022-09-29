@@ -94,11 +94,11 @@
 				<tr>
 					<td align="center">
 						<span><strong>Spring Boot</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.javacodegeeks.com/wp-content/uploads/2018/07/SpringBoot.png">
+						<img height="64px" width="74px" src="https://www.javacodegeeks.com/wp-content/uploads/2018/07/SpringBoot.png">
 					</td>
 					<td align="center">
 						<span><strong>.Net MVC</strong></span><br/>
-						<img height="64px" width="64px" src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png">
+						<img height="64px" width="74px" src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png">
 					</td>
 				</tr>
 			</tbody>
