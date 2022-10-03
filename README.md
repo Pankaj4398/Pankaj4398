@@ -207,5 +207,7 @@
  
  ---
  
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pankaj4398&theme=nightowl) 
+<!-- ACTIVITY GRAPH TRACKER -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pankaj4398&theme=react-dark) 
+
+
