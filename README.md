@@ -4,7 +4,7 @@
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <!-- <h2 align=center><img src="Resources/pokemon-pikachu.gif" width="100" height="120"/> Good to have you here!!</h2> -->
-<h2 align=center><img src="Resources/pikachu-pokemon.gif" width="150" height="120"/> Good to have you here!!</h2>
+<h2 align=center><img src="Resources/pikachu-pokemon.gif" width="150" height="120"/> <span>Good to have you here!!</span></h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pankaj4398&label=Profile%20views&color=green&style=flat" alt="Pankaj4398" /> </p>
 
