@@ -3,7 +3,8 @@
 
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center><img src="Resources/kakashi-hatake-hello.gif" width="100" height="120"/> Good to have you here!!</h2>
+<!-- <h2 align=center><img src="Resources/kakashi-hatake-hello.gif" width="100" height="120"/> Good to have you here!!</h2> -->
+<h2 align=center><img src="Resources/pikachu-pokemon.gif" width="100" height="120"/> Good to have you here!!</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pankaj4398&label=Profile%20views&color=green&style=flat" alt="Pankaj4398" /> </p>
 
