@@ -13,11 +13,11 @@
 🌱 **About myself**
 <br>
 
-✔️ I am **Pankaj Kumar**, pursued my bachelors from ADGITM Affiliate to GGSIPU, Delhi in *Computer Science Engineering*. <br>
+✔️ I am **Pankaj Kumar**,and I completed my bachelor's degree in *Computer Science Engineering* from ADGITM Affiliate to GGSIPU, Delhi. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy DSA. <br>
 
-✔️ I am learning backend web development in springboot.<br>
+✔️ I am currently learning react and nextjs.<br>
 
 
 <br>
