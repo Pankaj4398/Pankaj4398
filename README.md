@@ -54,10 +54,10 @@
 						<span><strong>Java</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
 					</td>
-					<td width="25%" align="center">
+					<!--<td width="25%" align="center">
 						<span><strong>Python</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-					</td>
+					</td> -->
 				</tr>
 			</tbody>
 		</table>
@@ -102,12 +102,12 @@
 		<table>
 			<tbody>
 				<tr>
-					<td align="center">
+					<!--<td align="center">
 						<span><strong>Spring Boot</strong></span><br/>
 						<img height="64px" width="74px" src="https://www.javacodegeeks.com/wp-content/uploads/2018/07/SpringBoot.png">
-					</td>
+					</td>-->
 					<td align="center">
-						<span><strong>.Net MVC</strong></span><br/>
+						<span><strong>.Net Core Web Api</strong></span><br/>
 						<img height="64px" width="74px" src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png">
 					</td>
 				</tr>
@@ -120,7 +120,7 @@
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>MySql</strong></span><br/>
+						<span><strong>Sql Server</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
 					</td>
 					<td width="25%" align="center">
@@ -141,10 +141,10 @@
 						<span><strong>Heroku</strong></span><br/>
 						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
 					</td>
-					<td width="25%" align="center">
+					<!--<td width="25%" align="center">
 						<span><strong>Netlify</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
-					</td>
+					</td>-->
      					<td width="25%" align="center">
 						<span><strong>Github pages</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
@@ -167,10 +167,10 @@
 						<span><strong>Github</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
 					</td>
-     					<td width="25%" align="center">
+     					<!--<td width="25%" align="center">
 						<span><strong>Flask</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-					</td>
+					</td>-->
 				</tr>
 			</tbody>
 		</table>
