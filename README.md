@@ -187,13 +187,13 @@
 ---
 
 <!-- GITHUB STATISTICS -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical&hide=stars&count_private=true)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=Pankaj4398&show_icons=true&theme=radical&hide=stars&count_private=true)-->
  
 <!--LANGUAGE CARD-->
- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj4398&theme=radical)
+ <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj4398&theme=radical)-->
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj4398&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj4398&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       -->
          
 
 ---
