@@ -198,17 +198,13 @@
 
 ---
 
-
+[
 <!-- PINNED REPOS -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&style=flat-square&theme=dark&show_icons=true&card_width=100)](https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=Object-Modeling-CodingGame-Jukebox&style=flat-square&theme=dark&show_icons=true&card_width=100)](https://github.com/Pankaj4398/Object-Modeling-CodingGame-Jukebox.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=QMoney&style=flat-square&theme=dark&show_icons=true&card_width=100)](https://github.com/Pankaj4398/QMoney.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pankaj4398&repo=QMoney&style=flat-square&theme=dark&show_icons=true&card_width=100)](https://github.com/Pankaj4398/QMoney.git)](url)-->
  
  
- ---
- 
-<!-- ACTIVITY GRAPH TRACKER -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pankaj4398&theme=react-dark) 
 
 
