@@ -108,7 +108,7 @@
 					</td>-->
 					<td align="center">
 						<span><strong>.Net Core Web Api</strong></span><br/>
-						<img height="64px" width="74px" src="[https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png](https://miro.medium.com/v2/resize:fit:1064/1*O4EpCHRBgn-sevVV-iHnjw.jpeg)">
+						<img height="64px" width="74px" src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png](https://miro.medium.com/v2/resize:fit:1064/1*O4EpCHRBgn-sevVV-iHnjw.jpeg">
 					</td>
 				</tr>
 			</tbody>
